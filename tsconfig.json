@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "backend/lib/intentClassifier.js", "backend/lib/detectIntent.js"  ],
   "exclude": ["node_modules"]
 }
